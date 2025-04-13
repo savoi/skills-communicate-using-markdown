@@ -9,3 +9,9 @@
 ```javascript
 let planets = ['Jupiter', 'Venus', 'Mars']
 ```
+
+### Task List
+
+- [x] Colonize Mars
+- [x] Establish outpost
+- [ ] Terraform planetary atmosphere
